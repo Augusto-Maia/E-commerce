@@ -22,6 +22,8 @@ Vite
 Axios 
 TailwindCSS
 
+### Link para o vídeo no YouTube: https://youtu.be/Z59TG3y-iRQ?si=3Rn8PakufjaFERad
+
 ## IMAGENS DO PROJETO
 
 ![Captura de tela 2025-06-05 235027](https://github.com/user-attachments/assets/0371852e-e089-4ac7-927e-0d2f06685b50)
