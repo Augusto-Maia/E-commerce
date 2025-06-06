@@ -9,7 +9,7 @@
                     Que tal uma busca mais precisa? Encontre exatamente o que você procura navegando por todas as nossas categorias.
                 </p>
                 <router-link
-                    to="/category"
+                    to="/categoria"
                     class="inline-block px-8 py-3 bg-green-600 text-white text-lg font-semibold rounded-lg shadow-md hover:bg-green-700 transition-colors duration-300"
                 >
                     Ver Todas as Categorias
